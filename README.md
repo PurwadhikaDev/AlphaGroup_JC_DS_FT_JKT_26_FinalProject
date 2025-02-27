@@ -1,4 +1,4 @@
-# Olist E-commerce Recommendation System
+# Olist E-commerce RFM Analysis & Recommendation System
 
 ## Business Problem
 
